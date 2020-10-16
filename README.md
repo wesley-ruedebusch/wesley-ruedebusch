@@ -1,4 +1,4 @@
-
+Hello! Welcome to my github profile. You can see everything I have worked on here along with a couple of organiztional projects. I am a full-stack web devloper that is excited and passionate about my craft. I am always looking for ways to improve and increase my knowledge of coding.
 
 
 - 🔭 I’m currently working on geting a job in the tech field.
